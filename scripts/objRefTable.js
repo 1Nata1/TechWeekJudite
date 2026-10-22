@@ -13,6 +13,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Acts.Destroy,
 		C3.Plugins.System.Acts.AddVar,
 		C3.Plugins.System.Acts.RestartLayout,
+		C3.Plugins.System.Acts.ResetEventVar,
 		C3.Plugins.System.Cnds.EveryTick,
 		C3.Behaviors.Follow.Acts.FollowObject,
 		C3.Plugins.System.Cnds.Compare,
